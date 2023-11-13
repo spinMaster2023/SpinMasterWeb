@@ -64,7 +64,7 @@ export function Noticias() {
                 </div>
             </div>
 
-            <button type="button" className="btn btn-dark">VER MAS</button>
+        
 
 
         </>

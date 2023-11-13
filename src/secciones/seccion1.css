@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    /* background: #401735;
+    border-radius: 15px; */
+}
+
+.imagen{
+    width: 500px;
+    margin-left: 50px;
+    border-radius: 15px;
+    
+}
