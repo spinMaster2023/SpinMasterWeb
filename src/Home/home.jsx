@@ -14,6 +14,7 @@ export function Home() {
             <body>
             <NavHome></NavHome>
             <a href="#top"><img src="/src/assets/img/empty.gif" alt="" style={{position: 'fixed', bottom: 20, right: '3%'}} width="100" className='ir-arriba'></img> </a>
+            
            
                     <Seccion1></Seccion1>    
                     
@@ -29,7 +30,7 @@ export function Home() {
                     <Seccion2></Seccion2>
                     <Footer></Footer>
           
-
+            
             
         </>
     )

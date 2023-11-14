@@ -8,8 +8,8 @@ export function Noticias() {
                     <div className="col-12 col-sm-6 col-md-4">
                         <div className="card-container">
                             <div className="card">
-                                <div className="img-content">
-                                    <img src="https://img.freepik.com/fotos-premium/raqueta-tenis-llamas-sobre-fondo-llama-oscura_843481-944.jpg" alt="" />
+                                <div className="img-content ">
+                                    <img src="/src/assets/img/idea1.avif" alt=""  />
                                 </div>
                                 <div className="content">
                                     <p className="heading">Card Hover</p>
@@ -28,7 +28,7 @@ export function Noticias() {
                         <div className="card-container">
                             <div className="card">
                                 <div className="img-content">
-                                    <img src="https://img.freepik.com/fotos-premium/raqueta-tenis-llamas-sobre-fondo-llama-oscura_843481-944.jpg" alt="" />
+                                    <img src="/src/assets/img/idea1.avif" alt="" />
                                 </div>
                                 <div className="content">
                                     <p className="heading">Card Hover</p>
@@ -47,7 +47,7 @@ export function Noticias() {
                         <div className="card-container">
                             <div className="card">
                                 <div className="img-content">
-                                    <img src="https://img.freepik.com/fotos-premium/raqueta-tenis-llamas-sobre-fondo-llama-oscura_843481-944.jpg" alt="" />
+                                    <img src="/src/assets/img/idea1.avif" alt="" />
                                 </div>
                                 <div className="content">
                                     <p className="heading">Card Hover</p>
@@ -66,7 +66,7 @@ export function Noticias() {
 
         
 
-
+            
         </>
     )
 }

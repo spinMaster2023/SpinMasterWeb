@@ -8,7 +8,7 @@ export function Seccion2 (){
 <ul>
     <li>
         <img src="/src/assets/img/s1.jpg" alt=""/>
-        <div className="texto">
+        <div className="texto text-white">
             <h2></h2>
             <p>
                 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Similique fugiat ut adipisci ipsa eius consectetur 
@@ -17,7 +17,7 @@ export function Seccion2 (){
     </li>
     <li>
         <img src="/src/assets/img/s2.jpg" alt="paiage"/>
-        <div className="texto">
+        <div className="texto text-white">
             <h2></h2>
             <p>
                 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Similique fugiat ut adipisci ipsa eius consectetur 
@@ -26,7 +26,7 @@ export function Seccion2 (){
     </li>
     <li>
         <img src="/src/assets/img/s3.jpg" alt="" />
-        <div className="texto">
+        <div className="texto text-white">
             <h2></h2>
             <p>
                 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Similique fugiat ut adipisci ipsa eius consectetur 
@@ -35,7 +35,7 @@ export function Seccion2 (){
     </li>
     <li>
         <img src="/src/assets/img/s4.jpg" alt=""/>
-        <div className="texto">
+        <div className="texto text-white">
             <h2></h2>
             <p>
                 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Similique fugiat ut adipisci ipsa eius consectetur 
