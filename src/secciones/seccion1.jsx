@@ -4,15 +4,21 @@ export function Seccion1(){
         <>
 
         
-        <div className="container-fluid my-5">
-            <div className="row">
-            <div className='col-6 my-5 text-center'>
-                <p className='texto1'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam distinctio natus fugiat ipsa minus est! Assumenda quasi quod et ab rerum enim magni inventore, eligendi voluptates quas voluptate, nostrum debitis modi delectus hic est qui numquam vel. Unde atque sequi praesentium itaque consectetur maiores quaerat accusamus eligendi sint! Qui quos in, porro laudantium voluptates iste hic aliquid consequatur tempora dolores optio architecto doloremque repudiandae perspiciatis! Velit reprehenderit, alias pariatur eius cupiditate soluta. Officiis delectus, neque atque quos ducimus eaque ipsa placeat ad, incidunt nemo repellendus enim rerum quaerat at labore itaque eos architecto, magnam commodi. Aperiam rem porro laudantium rerum.</p>
-            </div>
-            <div className="col-6 my-5 imagen"><img className="imagen" src="/src/assets/img/fyMe.gif" alt="gif de pinpong" /></div>
-            
-            </div>
+<div className="container-fluid my-5">
+      <div className="row">
+        <div className='col-md-6 my-5 text-center'>
+          <p className='texto1 '>
+          El ping pong es conocido por su rapidez y dinamismo. Se juega con una pequeña pelota de celuloide que rebota rápidamente sobre una mesa dividida por una red. Los jugadores utilizan raquetas especialmente diseñadas para golpear la pelota de un lado a otro. El objetivo es marcar puntos haciendo que la pelota toque la mesa en el lado del oponente y sea difícil de devolver. La velocidad, la precisión y la estrategia son fundamentales para tener éxito en este deporte, que combina elementos de habilidad técnica y agilidad mental.
+          </p>
         </div>
+        <div className="col-md-6  text-center">
+          <div>
+            
+          </div>
+          <img className="img-fluid" src="/src/assets/img/fyMe.gif" alt="gif de pinpong" />
+        </div>
+      </div>
+    </div>
         
         </>
     )
