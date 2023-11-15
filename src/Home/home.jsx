@@ -1,3 +1,4 @@
+import './Home.css'
 import { NavHome } from '../navbar/navbar'
 
 import { Noticias } from '../Noticias/noticias'
