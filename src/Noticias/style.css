@@ -7,6 +7,8 @@
   
 }
 
+
+
 .card-container::before {
   /* Mantenemos las mismas propiedades para el fondo con gradientes */
   content: "";
@@ -99,10 +101,27 @@
   fill: transparent;
 }
 
+.cn{
+  font-family: monospace;
+  font-style: bold !important;
+  
+  
+}
+
+.wn{
+  font-family: monospace;
+}
+
+.botonic{
+  background-color: #024A94;
+}
+
 @media only screen and (max-width: 768px) {
   .card-container {
     max-width: 100%; /* Haz que la tarjeta ocupe el ancho completo en pantallas pequeñas */
     margin-bottom: 10px;
+    margin-left: -20px;
+    
   }
 
   .card .img-content {

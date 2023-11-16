@@ -1,0 +1,33 @@
+a{
+    font-family: monospace;
+    font-style: bold;
+    color: white;
+}
+
+.navbar{
+    color: white;
+    
+    
+}
+
+.bn{
+    font-family: monospace;
+    font-style: bold;
+    color: white;
+}
+
+.ip{
+    font-family: monospace;
+    font-style: bold;
+    color: white;
+    transition: .9s;
+}
+
+.ip:hover{
+    width: auto;
+    height: auto;
+    transform: scale(0.9);
+    transition: .5s;
+
+    color: grey;
+}
